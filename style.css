@@ -1,0 +1,21 @@
+.nav-item{
+    font-weight: bold;
+}
+.home{
+    
+    background-color: rgb(9, 141, 141);
+}
+.text{
+    display: flex;
+    flex-direction: column;
+}
+.text h1{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.text p{
+    color: white;
+
+}
